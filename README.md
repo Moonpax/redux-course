@@ -1,1 +1,1 @@
-# Redux on clear javascript
+# Redux javascript vanilla
